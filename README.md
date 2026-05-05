@@ -1,5 +1,7 @@
 Bike Sales Data Analytics Dashboard 🚴‍♂️📊
 
+The Analysis of given Data
+- <a href ="https://github.com/SahilM333/Bike-Sales/blob/main/Bike%20sales.xlsx">VIEW DATASET</a>
 This project analyzes bike sales data using Excel and Pivot Tables to uncover buyer behavior, purchase trends, and demographic insights. The interactive dashboard allows for easy exploration of key metrics like income, age, commute distance, and car ownership.
 
 Key Features
